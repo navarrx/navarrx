@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santiago Navarro</h1>
 <h3 align="center">A Computer Engineering Student at Universidad de Mendoza</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw0Fnw6a2DYx5N098ygbjBck&ust=1681651761882000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICm65H_q_4CFQAAAAAdAAAAABAI">
 
 - 🔭 I’m currently working on **Data Analytics & Data Entry**
 

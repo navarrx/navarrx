@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santiago Navarro</h1>
 <h3 align="center">A Computer Engineering Student at Universidad de Mendoza</h3>
-<p img align="center" src="https://github-readme-stats.vercel.app/api?username=navarrx&show_icons=true&locale=en" alt="navarrx"></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navarrx&show_icons=true&locale=en" alt="navarrx" /></p>
 
 - 🔭 I’m currently working on **Data Analytics & Data Entry**
 

@@ -2,9 +2,9 @@
 <h3 align="center">An Advanced Computer Engineering Student at Universidad de Mendoza</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navarrx&show_icons=true&locale=en" alt="navarrx" /></p>
 
-- 🔭 I’m currently working on **Software Development at tuti.devs & Engineering Intern at Batech**
+- 🔭 I’m currently working on **Software Development at tuti.devs**
 
-- Past Jobs: **Data Analytics & Data Entry**
+- Past Jobs: **Engineering Intern at Batech, Data Analytics & Data Entry at Startclub**
 
 - 🌱 I’m currently learning about **AI, LLMs, AWS & DevOps**
 

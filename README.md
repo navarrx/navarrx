@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santiago Navarro</h1>
-<h3 align="center">An Advanced Computer Engineering Student at Universidad de Mendoza</h3>
+<h3 align="center">An Argentinian Computer Engineer</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navarrx&show_icons=true&locale=en" alt="navarrx" /></p>
 
 - 🔭 I’m currently working on **Software Development at tuti.devs**

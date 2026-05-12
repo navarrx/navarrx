@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning about **AI, LLMs, AWS & DevOps**
 
-- 📫 How to reach me **sa.navarro@alumno.um.edu.ar**
+- 📫 How to reach me **santiagonavarroyt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
